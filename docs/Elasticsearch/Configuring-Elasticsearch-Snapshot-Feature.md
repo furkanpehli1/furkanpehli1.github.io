@@ -95,5 +95,6 @@ References:
 
 Source:
 - https://www.elastic.co/guide/en/elasticsearch/reference/current/snapshots-take-snapshot.html
+
 Published:
 - https://usrbinpehli.medium.com/step-by-step-configuring-elasticsearch-snapshot-feature-7941af77042b | 19.04.22 - 21.45
